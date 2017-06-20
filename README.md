@@ -1,4 +1,4 @@
-The Ten of Python  by Tim Peters
+#The Ten of Python  by Tim Peters
 Beautiful is better than ugly.      
 优美胜于丑陋
 Explicit is better than implicit.   
